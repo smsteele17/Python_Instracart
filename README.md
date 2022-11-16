@@ -6,3 +6,5 @@ Instacart is an online grocery store that operates through an app. Instacart alr
 Open Source Customer Data Set [Here](https://github.com/smsteele17/Python_Instracart_Analysis/files/10025020/customers.1.zip)
 
 Data Dictionary [Here](https://github.com/smsteele17/Python_Instracart_Analysis/files/10025025/customers.1.zip)
+
+Final Excel Report [Here](https://github.com/smsteele17/Python_Instracart_Analysis/files/10025039/A4.Instacart.Basket.Analysis.Report.xlsx)
